@@ -1,9 +1,9 @@
 # leander-scraper
 Scrapes permits from the City of Leander
 
-# Requires
+## Requires
 python 3.11
 
-#Dependencies
+## Dependencies
 - requests
 - pandas
